@@ -11,6 +11,7 @@ body{
     border: none;
     font-family: "Rationale", serif;
     font-size: 50px;
+    border-left: #F9F4F5 solid 5px;
 }
 #navbutton:hover{
     background-color: #502F4C;
