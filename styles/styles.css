@@ -1,5 +1,9 @@
+body{
+    margin: 0px 25px;
+}
 #navbutton{
     background-color: transparent;
+    border: none;
 }
 #navbutton:hover{
     background-color: white;
