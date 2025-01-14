@@ -1,11 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rationale&display=swap');
+html{
+    color-scheme: dark;
+}
 body{
-    margin: 0px 25px;
+    margin: 25px 0px;
+    color: #F9F4F5;
+    background: linear-gradient(#000000 10%, #502F4C 75%);
 }
 #navbutton{
     background-color: transparent;
     border: none;
+    font-family: "Rationale", serif;
 }
 #navbutton:hover{
     background-color: white;
     opacity: .5;
+}
+#navigation{
+    background-color: #000000;
 }
