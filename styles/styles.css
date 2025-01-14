@@ -4,9 +4,7 @@ html{
     background: linear-gradient(#000000 10%, #502F4C 75%) no-repeat;
 }
 body{
-    margin: 25px 0px;
     color: #F9F4F5;
-    
 }
 #navbutton{
     background-color: transparent;
