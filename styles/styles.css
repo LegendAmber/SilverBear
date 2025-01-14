@@ -1,0 +1,7 @@
+#navbutton{
+    background-color: transparent;
+}
+#navbutton:hover{
+    background-color: white;
+    opacity: .5;
+}
