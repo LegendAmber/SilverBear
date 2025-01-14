@@ -12,9 +12,13 @@ body{
     font-family: "Rationale", serif;
     font-size: 50px;
     border-left: #F9F4F5 solid 5px;
+    border-right: #F9F4F5 solid 5px;
 }
 #navbutton:nth-child(1){
     border-left: none;
+}
+#navbutton:nth-last-child(1){
+    border-right: none;
 }
 #navbutton:hover{
     background-color: #502F4C;
